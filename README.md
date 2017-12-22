@@ -1,6 +1,6 @@
 # NetworksAssignments
 
-- Assignment (1)
+- Assignment (1) :- c++ 
   - using sockets programming in c++, Simple Http clinet/server are implemented. 
   - ServerAlgorithm  
     - Listen for connections
@@ -13,7 +13,7 @@
     - Wait for permission from the server
     - Send next requests to the server
     - Receives data from the server (in case of GET) or sends data (in case of POST)
-- Assignment (2)
+- Assignment (2) :- java 
   - Two Algorithms are implemented selective repeat, and stop and wait for the server 
     that guarantees reliable data transfer along with congestion control handling.   
   - StopAndWait: The server sends a single datagram, and blocks until an acknowledgement from the client is
@@ -21,7 +21,7 @@
   - SelectiveRepeat: The server is allowed to have up to N datagrams that have not yet been
     acknowledged by the client. 
   
-- Assignment (3)
+- Assignment (3) :- c++ 
   - using ns-3-27 [https://www.nsnam.org/ns-3-27/] to simulate Open Shortest Path First (OSPF) algorithm. 
   - OSPF is a link state routing protocol, implemented in each router. 
   - A script first.c is created to simulate a topology with six nodes (one for the server and the others are clients), 
